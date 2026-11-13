@@ -1,0 +1,11 @@
+.next
+node_modules
+public
+data/sprite.ts
+package-lock.json
+.cache
+.config
+.npm
+.github
+uploads
+*.tsbuildinfo
