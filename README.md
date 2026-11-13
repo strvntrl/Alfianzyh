@@ -1,85 +1,117 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
+
+# Muhammad Alfiansyah — Portfolio
+
+**Undergraduate Student of Information Systems | Full-Stack Web2, Web3, & System Developer | Data Analyst & Business Intelligence | Information Systems Management & Digital Humanism**
+
+[GitHub](https://github.com/strvntrl) · [LinkedIn](https://www.linkedin.com/in/muhalfisyah) · [Instagram](https://www.instagram.com/alfianzyh) · [Email](mailto:muhammad.alfiansyah2805@gmail.com)
+
 </div>
 
-###
+## About
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhalfisyah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alfianzyh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
-  </a>
-</div>
+Source code of my personal portfolio website. I'm Muhammad Alfiansyah (Alfian), an Information Systems undergraduate at State University of Surabaya (GPA 3.83 / 4.00) with hands-on experience in developing web-based business applications, production monitoring systems, and data-driven solutions.
 
-###
+The site is plain HTML, CSS, and JavaScript — no framework, no build step, no dependencies.
 
-<h1 align="center">Hello my fellow programmer, Welcome to my Github page👋</h1>
+## Pages
 
-###
+| Page | File | Content |
+| --- | --- | --- |
+| Home | `index.html` | Hero, tech stack, services, about teaser, selected work, how I work |
+| About | `about.html` | My story (3 chapters), experience, education & certification, skills |
+| Portfolio | `portofolio.html` | 18 projects with category filter, ordered from the most complex |
+| Contact | `contact.html` | Contact form (Formspree), social links, FAQ |
 
-<h3 align="center">👨‍💻  About Me</h3>
+## Features
 
-###
+- White and light-blue theme with a navy dark mode (saved in the browser)
+- Scroll-reveal animations, typing effect, 3D tilt cards, magnetic buttons, cursor glow
+- Project filter: Web3, Systems & Web Apps, Data & BI, Frontend
+- Official technology logos embedded as inline SVG (no CDN needed)
+- Fully responsive, respects `prefers-reduced-motion`
+- Optimized WebP images
 
-<p align="center">My name is Alfian and i'm from Indonesia. <br>I’m an undergraduate student majoring in Information Systems. <br>I have passionate about Web Development, Web Design, and IT Governance<br><br>- 🔭 I’m working as Frontend Web Developer & Web Designer<br>- 📚 I'm currently learning about Laravel & Full Stack Development</p>
+## Experience
 
-###
+- **System Developer Intern — PT. Exedy Prima Indonesia** (March 2026 – July 2026)
+  Clutch Disc Production Monitoring Dashboard, Production Monitoring & Control (PMC) System, and Production Report System integrated with Microsoft SQL Server.
+- **Front End Web Developer Intern — Minilemon Technology** (July 2025 – April 2026)
+  Responsive frontend interfaces from UI/UX designs, API integration, and a backend migration from Convex to Prisma ORM.
 
-<h3 align="center">🛠 Language and tools</h3>
+## Projects
 
-###
+### Web3
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-</div>
- 
-###
+| Project | Tech |
+| --- | --- |
+| [Covar](https://covar.vercel.app/) | Next.js, TypeScript, Solidity, Hardhat, Ethers.js, Prisma, Robinhood Chain |
+| [FYAT Agent](https://fyat-agent.vercel.app/) | Next.js, TypeScript, Rust, Anchor, Solana web3.js, Tailwind CSS, Neon Postgres |
+| [Vetto](https://vetto-six.vercel.app/) | Next.js, TypeScript, Tailwind CSS, viem, Uniswap v4, WalletConnect, PostgreSQL |
+| [VATE](https://vate-ecru.vercel.app/) | Next.js, TypeScript, Solidity, Foundry, wagmi, viem, TanStack Query |
 
-<h3 align="center">🔥   My Stats :</h3>
+### Systems & Web Apps
 
-###
+| Project | Tech |
+| --- | --- |
+| [Clutch Disc Production Monitoring](https://clutch-tech.vercel.app/) | Next.js, TypeScript, PostgreSQL, Supabase, Recharts, JWT Auth |
+| [TimelessTales](https://cilukba.vercel.app/) | Next.js, Tailwind CSS, Node.js |
+| [DariKamiUntukmu](https://dari-kami-untukmu.vercel.app/) | Next.js, React, Tailwind CSS, Supabase, Framer Motion, Radix UI |
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Alfianzyh&theme=codeSTACKr&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianzyh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+### Data & Business Intelligence
 
-###
+| Project | Tech |
+| --- | --- |
+| [Northwind Executive Summary Dashboard](https://public.tableau.com/app/profile/m.alfiansyah/viz/NorthwindExecutiveSummaryDashboard_17638724615530/ExecutiveSummaryNorthwind) | Tableau |
+| [Customer Complaint Dashboard](https://public.tableau.com/app/profile/m.alfiansyah/viz/complaint_customer_17639233597850/ComplaintCustomer) | Tableau |
+| [Music Store Revenue Optimization Dashboard](https://public.tableau.com/app/profile/m.alfiansyah/viz/StrategiOptimalisasiPendapatanTokoMusicGlobalDashboard/DASHBOARD) | Tableau |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfianzyh/Alfianzyh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alfianzyh/Alfianzyh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alfianzyh/Alfianzyh/output/pacman-contribution-graph.svg">
-</picture>
+### Frontend
 
-###
+| Project | Tech |
+| --- | --- |
+| [Music4Lyfe](https://music4lyfe.vercel.app/) | React, Tailwind CSS, Figma |
+| [Carify](https://carify-gamma.vercel.app/) | React, Tailwind CSS |
+| [Rubik Cube Game](https://strvntrl.github.io/Rubik-Cube-Game/) | HTML, CSS, JS |
+| [Surabaya Museum](https://strvntrl.github.io/Surabaya-Museum/) | HTML, CSS, JS |
+| [Dibimbing FE Final Project](https://strvntrl.github.io/Dibimbing-FE-Portofolio/) | HTML, CSS, JS |
+| [Solar System](https://strvntrl.github.io/Solar-System/) | HTML, CSS |
+| [Memory Game](https://strvntrl.github.io/Memory-Game/) | HTML, CSS, JS |
+| [Word Counter](https://strvntrl.github.io/Word-Counter/) | HTML, CSS, JS |
+
+## Skills
+
+- **Software Development:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, GSAP, Framer Motion, PHP, Laravel, Prisma ORM, Supabase, SRS, UML
+- **Web3 & Blockchain:** Solidity, Rust & Anchor (Solana), Hardhat, Foundry, Ethers.js, viem, wagmi, Solana web3.js, SPL Token, EVM & Robinhood Chain, wallet integration, Uniswap v4 SDK, Meteora
+- **Data Analysis & Visualization:** Python (Pandas, NumPy), SQL, PostgreSQL, Tableau, Power BI, Excel, Google Sheets, ETL, EDA, SPSS
+- **Quality Assurance & Testing:** Black box & white box testing, test scenarios and test cases, bug reporting, Playwright, Vitest
+- **Tools & Deployment:** Git & GitHub, Figma, Visual Studio Code, Postman, SQL Server Management, Jupyter Notebook, pnpm, Vercel, Railway
+
+## Project structure
+
+```
+├── index.html          Home
+├── about.html          About
+├── portofolio.html     Portfolio
+├── contact.html        Contact
+├── css/style.css       All styles (theme variables at the top)
+├── js/main.js          All interactions (vanilla JavaScript)
+└── img/                Logo and optimized images (img/opt)
+```
+
+## Run locally
+
+No install needed — open `index.html` in a browser, or serve the folder:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+## Contact
+
+- Email: muhammad.alfiansyah2805@gmail.com
+- GitHub: [@strvntrl](https://github.com/strvntrl)
+- LinkedIn: [/in/muhalfisyah](https://www.linkedin.com/in/muhalfisyah)
+- Instagram: [@alfianzyh](https://www.instagram.com/alfianzyh)
