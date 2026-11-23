@@ -11,7 +11,9 @@ export default function ContactPage() {
     <>
       <section className="page-hero">
         <div className="container">
-          <span className="eyebrow reveal">Contact me</span>
+          <span className="crumb reveal">
+            <b>Get in touch</b> / Contact
+          </span>
           <h1 className="reveal" style={delay(1)}>
             Let’s build something <span className="grad">great</span>
           </h1>

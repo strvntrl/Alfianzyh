@@ -10,7 +10,9 @@ export default function PortfolioPage() {
     <>
       <section className="page-hero">
         <div className="container">
-          <span className="eyebrow reveal">Portfolio</span>
+          <span className="crumb reveal">
+            <b>Selected work</b> / Portfolio
+          </span>
           <h1 className="reveal" style={delay(1)}>
             Things I’ve <span className="grad">built</span>
           </h1>

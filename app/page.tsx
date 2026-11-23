@@ -52,6 +52,14 @@ export default function HomePage() {
           <div className="portrait reveal zoom" style={delay(2)}>
             <div className="halo"></div>
             <div className="ring"></div>
+            <div className="ticks" />
+            <div className="scan" />
+            <span className="coords tl">
+              <b>SYS</b> / 01
+            </span>
+            <span className="coords br">
+              SURABAYA <b>·</b> ID
+            </span>
             <Image
               src="/img/opt/pp.webp"
               alt="Portrait of Muhammad Alfiansyah"

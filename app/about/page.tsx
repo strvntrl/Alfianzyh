@@ -14,8 +14,10 @@ export default function AboutPage() {
       <section className="page-hero">
         <div className="container split">
           <div>
-            <span className="eyebrow reveal">About me</span>
-            <h1 className="reveal" style={{ ...delay(1), fontSize: "clamp(2.2rem,5vw,4rem)" }}>
+            <span className="crumb reveal">
+              <b>Profile</b> / About
+            </span>
+            <h1 className="reveal" style={delay(1)}>
               I’m Muhammad Alfiansyah, a{" "}
               <span className="grad">Full-Stack Web2, Web3 & System</span> Developer
             </h1>
